@@ -5,6 +5,10 @@ author: "Andries van Swaaij"
 Animals are the coolest.
 Therfore this paper is going to document my favourites.
 
-#Favourite Animals
-Giraffe, Rabbit, Parrot
+#Favourite African Animals
 
+Giraffe
+
+# Favorite Australian Animals
+
+Koalas
